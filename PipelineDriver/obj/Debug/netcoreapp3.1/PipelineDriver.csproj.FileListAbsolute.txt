@@ -1,0 +1,14 @@
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\bin\Debug\netcoreapp3.1\PipelineDriver.exe
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\bin\Debug\netcoreapp3.1\PipelineDriver.deps.json
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\bin\Debug\netcoreapp3.1\PipelineDriver.runtimeconfig.json
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\bin\Debug\netcoreapp3.1\PipelineDriver.runtimeconfig.dev.json
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\bin\Debug\netcoreapp3.1\PipelineDriver.dll
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\bin\Debug\netcoreapp3.1\PipelineDriver.pdb
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\bin\Debug\netcoreapp3.1\Pipelines.dll
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\bin\Debug\netcoreapp3.1\Pipelines.pdb
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\obj\Debug\netcoreapp3.1\PipelineDriver.csprojAssemblyReference.cache
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\obj\Debug\netcoreapp3.1\PipelineDriver.AssemblyInfoInputs.cache
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\obj\Debug\netcoreapp3.1\PipelineDriver.AssemblyInfo.cs
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\obj\Debug\netcoreapp3.1\PipelineDriver.csproj.CopyComplete
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\obj\Debug\netcoreapp3.1\PipelineDriver.dll
+C:\Users\JimmyMsk\source\repos\Pipelines\PipelineDriver\obj\Debug\netcoreapp3.1\PipelineDriver.pdb

@@ -1,0 +1,8 @@
+C:\Users\JimmyMsk\source\repos\Pipelines\Pipelines\bin\Debug\netcoreapp3.1\Pipelines.deps.json
+C:\Users\JimmyMsk\source\repos\Pipelines\Pipelines\bin\Debug\netcoreapp3.1\Pipelines.dll
+C:\Users\JimmyMsk\source\repos\Pipelines\Pipelines\bin\Debug\netcoreapp3.1\Pipelines.pdb
+C:\Users\JimmyMsk\source\repos\Pipelines\Pipelines\obj\Debug\netcoreapp3.1\Pipelines.csprojAssemblyReference.cache
+C:\Users\JimmyMsk\source\repos\Pipelines\Pipelines\obj\Debug\netcoreapp3.1\Pipelines.AssemblyInfoInputs.cache
+C:\Users\JimmyMsk\source\repos\Pipelines\Pipelines\obj\Debug\netcoreapp3.1\Pipelines.AssemblyInfo.cs
+C:\Users\JimmyMsk\source\repos\Pipelines\Pipelines\obj\Debug\netcoreapp3.1\Pipelines.dll
+C:\Users\JimmyMsk\source\repos\Pipelines\Pipelines\obj\Debug\netcoreapp3.1\Pipelines.pdb
